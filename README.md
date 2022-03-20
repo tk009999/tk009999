@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tk009999)](https://github.com/tk009999/github-readme-stats)
+
 ### Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=tk009999)](https://github.com/tk009999/github-profile-trophy)
 
