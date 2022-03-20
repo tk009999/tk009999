@@ -1,12 +1,12 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tk009999&theme=soft-green&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tk009999)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tk009999&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=tk009999)]()
 
 ### My GitHub starts
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tk009999&langs_count=8)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tk009999)]()
 
 <!--
 **tk009999/tk009999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
