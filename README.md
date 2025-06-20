@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=CEO+×+CTO+×+Unity+Engineer;Systems+Designer;Building+Future+Creative+Studios;Time+Token+%26+XR+Bridge+Creator" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=450&lines=CEO+%C3%97+CTO+%C3%97+Unity+Engineer;Systems+Designer;Building+Future+Creative+Studios;Time+Token+%26+XR+Bridge+Creator" alt="Typing SVG" />
 </p>
 
 <p align="center">
