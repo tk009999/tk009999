@@ -39,9 +39,13 @@
   <img src="https://img.shields.io/badge/XR-FF6B6B?style=flat-square&logo=oculus&logoColor=white" alt="XR"/>
 </p>
 
-### 🌐 後端與工具
+### 🌐 Web 開發
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+</p>
+
+### 🔧 嵌入式與工業自動化
+<p align="center">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/Modbus-FF6B35?style=flat-square&logo=modbus&logoColor=white" alt="Modbus"/>
 </p>
