@@ -18,20 +18,39 @@
 
 ## 🛠 技術棧
 
+### 💻 程式語言
 <p align="center">
-  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift"/>
+  <img src="https://img.shields.io/badge/Objective--C-3A95E3?style=flat-square&logo=apple&logoColor=white" alt="Objective-C"/>
+  <img src="https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white" alt="Solidity"/>
 </p>
 
+### 📱 移動開發
+<p align="center">
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white" alt="iOS"/>
+  <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
+  <img src="https://img.shields.io/badge/XR-FF6B6B?style=flat-square&logo=oculus&logoColor=white" alt="XR"/>
+</p>
+
+### 🌐 後端與工具
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
   <img src="https://img.shields.io/badge/Modbus-FF6B35?style=flat-square&logo=modbus&logoColor=white" alt="Modbus"/>
-  <img src="https://img.shields.io/badge/XR-FF6B6B?style=flat-square&logo=oculus&logoColor=white" alt="XR"/>
+</p>
+
+### 🗄️ 資料庫
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/NoSQL-E34F26?style=flat-square&logo=apache&logoColor=white" alt="NoSQL"/>
 </p>
 
 ---
@@ -89,12 +108,18 @@
 - 🎮 **Unity 3D/2D** 遊戲開發
 - ⚡ **C#** 後端與前端開發
 - 🔧 **C++** 高效能系統開發
+- ☕ **Java** 企業級應用開發
 - 🐍 **Python** 數據分析與機器學習
 - 🚀 **Go** 區塊鏈與微服務架構
 - 🌐 **Node.js/TypeScript** 全端開發
+- 📱 **iOS/Swift** 原生 iOS 應用開發
+- 🤖 **Android/Java** 原生 Android 開發
+- 🍎 **Objective-C** 傳統 iOS 開發
+- 💎 **Solidity** 智能合約開發
 - 🎨 **Shader 編程** 與視覺效果
-- 🤖 **Arduino/IoT** 嵌入式系統開發
+- 🔧 **Arduino/IoT** 嵌入式系統開發
 - 📡 **Modbus 通訊協議** 工業自動化
+- 🗄️ **MongoDB/SQL/NoSQL** 資料庫設計
 - �� **XR/AR/VR** 應用開發
 
 ---
