@@ -21,8 +21,16 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white" alt="Unity"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Modbus-FF6B35?style=flat-square&logo=modbus&logoColor=white" alt="Modbus"/>
   <img src="https://img.shields.io/badge/XR-FF6B6B?style=flat-square&logo=oculus&logoColor=white" alt="XR"/>
 </p>
 
@@ -80,9 +88,13 @@ I'm building a future-oriented creative model that combines "**Human × AI × Sy
 ### 💼 Technical Domains
 - 🎮 **Unity 3D/2D** Game Development
 - ⚡ **C#** Backend & Frontend Development
+- 🔧 **C++** High-Performance System Development
+- 🐍 **Python** Data Analysis & Machine Learning
+- 🚀 **Go** Blockchain & Microservice Architecture
 - 🌐 **Node.js/TypeScript** Full-Stack Development
 - 🎨 **Shader Programming** & Visual Effects
-- 🤖 **IoT** & Embedded Systems
+- 🤖 **Arduino/IoT** Embedded Systems Development
+- 📡 **Modbus Protocol** Industrial Automation
 - 📱 **XR/AR/VR** Application Development
 
 ---
