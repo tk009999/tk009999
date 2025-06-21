@@ -1,7 +1,7 @@
 # 🎮 Ace | Architect of Games, Time & Future
 
 <p align="center">
-  <a href="README.md">🇹🇼 繁體中文</a> •
+  <a href="../README.md">🇹🇼 繁體中文</a> •
   <a href="README.en.md">🇺🇸 English</a> •
   <a href="README.ja.md">🇯🇵 日本語</a>
 </p>
@@ -204,9 +204,5 @@ I'm building a future-oriented creative model that combines "**Human × AI × Sy
 ---
 
 <p align="center">
-  <em>✨ Let's create the future studio of the AI era together!</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="wave"/>
+  <em>💡 Building the future, one commit at a time.</em>
 </p> 

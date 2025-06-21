@@ -1,7 +1,7 @@
 # 🎮 Ace | ゲーム・時間・未来のアーキテクト
 
 <p align="center">
-  <a href="README.md">🇹🇼 繁體中文</a> •
+  <a href="../README.md">🇹🇼 繁體中文</a> •
   <a href="README.en.md">🇺🇸 English</a> •
   <a href="README.ja.md">🇯🇵 日本語</a>
 </p>
@@ -204,9 +204,5 @@
 ---
 
 <p align="center">
-  <em>✨ AI時代の未来スタジオを一緒に創造しましょう！</em>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" alt="wave"/>
+  <em>💡 未来を築く、一つのコミットずつ。</em>
 </p> 
